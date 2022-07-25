@@ -18,3 +18,6 @@ Recommend using Firefox.
 Use the standard Window (i.e. not the Private Window, which currently has known performance issues (https://github.com/jupyterlite/jupyterlite/issues/679)).
 
 🥑
+
+## Notes
+Need to run `%matplotlib inline` to display matplotlib graphs in the jupyter notebook.
