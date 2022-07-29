@@ -2,9 +2,9 @@
   "content": [
     {
       "content": null,
-      "created": "2022-07-29T23:13:37.563287Z",
+      "created": "2022-07-29T23:18:48.411020Z",
       "format": null,
-      "last_modified": "2022-07-29T23:12:40.598534Z",
+      "last_modified": "2022-07-29T23:17:52.387244Z",
       "mimetype": "image/png",
       "name": "pitch.png",
       "path": "data/pitch.png",
@@ -14,9 +14,21 @@
     },
     {
       "content": null,
-      "created": "2022-07-29T23:13:37.563287Z",
+      "created": "2022-07-29T23:18:48.407020Z",
       "format": null,
-      "last_modified": "2022-07-29T23:13:37.563287Z",
+      "last_modified": "2022-07-29T23:18:48.407020Z",
+      "mimetype": null,
+      "name": "man_u",
+      "path": "data/man_u",
+      "size": null,
+      "type": "directory",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2022-07-29T23:18:48.407020Z",
+      "format": null,
+      "last_modified": "2022-07-29T23:18:48.407020Z",
       "mimetype": null,
       "name": "arsenal",
       "path": "data/arsenal",
@@ -25,9 +37,9 @@
       "writable": true
     }
   ],
-  "created": "2022-07-29T23:13:37.563287Z",
+  "created": "2022-07-29T23:18:48.411020Z",
   "format": "json",
-  "last_modified": "2022-07-29T23:13:37.563287Z",
+  "last_modified": "2022-07-29T23:18:48.411020Z",
   "mimetype": null,
   "name": "data",
   "path": "data",
