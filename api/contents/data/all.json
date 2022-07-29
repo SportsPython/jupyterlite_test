@@ -2,9 +2,9 @@
   "content": [
     {
       "content": null,
-      "created": "2022-07-29T21:51:31.010277Z",
+      "created": "2022-07-29T21:59:48.380777Z",
       "format": null,
-      "last_modified": "2022-07-29T21:50:20.322150Z",
+      "last_modified": "2022-07-29T21:58:42.301297Z",
       "mimetype": null,
       "name": "some_data.gitkeep",
       "path": "data/some_data.gitkeep",
@@ -13,9 +13,9 @@
       "writable": true
     }
   ],
-  "created": "2022-07-29T21:51:31.010277Z",
+  "created": "2022-07-29T21:59:48.380777Z",
   "format": "json",
-  "last_modified": "2022-07-29T21:51:31.010277Z",
+  "last_modified": "2022-07-29T21:59:48.380777Z",
   "mimetype": null,
   "name": "data",
   "path": "data",
