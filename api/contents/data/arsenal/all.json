@@ -2,9 +2,9 @@
   "content": [
     {
       "content": null,
-      "created": "2022-07-29T22:16:54.927255Z",
+      "created": "2022-07-29T22:17:12.552924Z",
       "format": null,
-      "last_modified": "2022-07-29T22:15:56.103339Z",
+      "last_modified": "2022-07-29T22:16:13.832087Z",
       "mimetype": null,
       "name": "arsenal.gitkeep",
       "path": "data/arsenal/arsenal.gitkeep",
@@ -13,9 +13,9 @@
       "writable": true
     }
   ],
-  "created": "2022-07-29T22:16:54.927255Z",
+  "created": "2022-07-29T22:17:12.552924Z",
   "format": "json",
-  "last_modified": "2022-07-29T22:16:54.927255Z",
+  "last_modified": "2022-07-29T22:17:12.552924Z",
   "mimetype": null,
   "name": "arsenal",
   "path": "data/arsenal",
