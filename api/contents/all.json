@@ -2,9 +2,9 @@
   "content": [
     {
       "content": null,
-      "created": "2022-07-30T22:49:07.108419Z",
+      "created": "2022-07-30T22:51:02.320022Z",
       "format": null,
-      "last_modified": "2022-07-30T22:49:07.108419Z",
+      "last_modified": "2022-07-30T22:51:02.320022Z",
       "mimetype": null,
       "name": "data",
       "path": "data",
@@ -14,9 +14,21 @@
     },
     {
       "content": null,
-      "created": "2022-07-30T22:49:07.092419Z",
+      "created": "2022-07-30T22:51:02.320022Z",
       "format": null,
-      "last_modified": "2022-07-30T22:49:05.500384Z",
+      "last_modified": "2022-07-30T22:49:40.226502Z",
+      "mimetype": null,
+      "name": "example_workflow_ronaldo.ipynb",
+      "path": "example_workflow_ronaldo.ipynb",
+      "size": 4307,
+      "type": "notebook",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2022-07-30T22:51:02.304021Z",
+      "format": null,
+      "last_modified": "2022-07-30T22:50:58.083962Z",
       "mimetype": "text/markdown",
       "name": "README.md",
       "path": "README.md",
@@ -25,9 +37,9 @@
       "writable": true
     }
   ],
-  "created": "2022-07-30T22:49:07.096419Z",
+  "created": "2022-07-30T22:51:02.320022Z",
   "format": "json",
-  "last_modified": "2022-07-30T22:49:07.096419Z",
+  "last_modified": "2022-07-30T22:51:02.320022Z",
   "mimetype": null,
   "name": "",
   "path": "",
