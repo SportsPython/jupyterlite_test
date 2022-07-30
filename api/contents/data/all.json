@@ -2,9 +2,9 @@
   "content": [
     {
       "content": null,
-      "created": "2022-07-30T10:32:06.182822Z",
+      "created": "2022-07-30T10:31:44.811370Z",
       "format": null,
-      "last_modified": "2022-07-30T10:30:56.017813Z",
+      "last_modified": "2022-07-30T10:30:45.251383Z",
       "mimetype": "image/png",
       "name": "pitch.png",
       "path": "data/pitch.png",
@@ -14,9 +14,9 @@
     },
     {
       "content": null,
-      "created": "2022-07-30T10:32:06.182822Z",
+      "created": "2022-07-30T10:31:44.811370Z",
       "format": null,
-      "last_modified": "2022-07-30T10:32:06.182822Z",
+      "last_modified": "2022-07-30T10:31:44.811370Z",
       "mimetype": null,
       "name": "man_u",
       "path": "data/man_u",
@@ -26,9 +26,9 @@
     },
     {
       "content": null,
-      "created": "2022-07-30T10:32:06.162822Z",
+      "created": "2022-07-30T10:31:44.791370Z",
       "format": null,
-      "last_modified": "2022-07-30T10:32:06.162822Z",
+      "last_modified": "2022-07-30T10:31:44.791370Z",
       "mimetype": null,
       "name": "arsenal",
       "path": "data/arsenal",
@@ -38,9 +38,9 @@
     },
     {
       "content": null,
-      "created": "2022-07-30T10:32:06.182822Z",
+      "created": "2022-07-30T10:31:44.811370Z",
       "format": null,
-      "last_modified": "2022-07-30T10:30:56.017813Z",
+      "last_modified": "2022-07-30T10:30:45.251383Z",
       "mimetype": "text/csv",
       "name": "touches.csv",
       "path": "data/touches.csv",
@@ -49,9 +49,9 @@
       "writable": true
     }
   ],
-  "created": "2022-07-30T10:32:06.182822Z",
+  "created": "2022-07-30T10:31:44.811370Z",
   "format": "json",
-  "last_modified": "2022-07-30T10:32:06.182822Z",
+  "last_modified": "2022-07-30T10:31:44.811370Z",
   "mimetype": null,
   "name": "data",
   "path": "data",
