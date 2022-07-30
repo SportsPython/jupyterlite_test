@@ -2,9 +2,9 @@
   "content": [
     {
       "content": null,
-      "created": "2022-07-30T21:45:07.002234Z",
+      "created": "2022-07-30T22:22:53.191588Z",
       "format": null,
-      "last_modified": "2022-07-30T21:44:01.010099Z",
+      "last_modified": "2022-07-30T22:21:55.110814Z",
       "mimetype": "image/png",
       "name": "football.png",
       "path": "data/football.png",
@@ -14,9 +14,21 @@
     },
     {
       "content": null,
-      "created": "2022-07-30T21:45:07.002234Z",
+      "created": "2022-07-30T22:22:53.191588Z",
       "format": null,
-      "last_modified": "2022-07-30T21:44:01.010099Z",
+      "last_modified": "2022-07-30T22:22:53.191588Z",
+      "mimetype": null,
+      "name": "arsenal",
+      "path": "data/arsenal",
+      "size": null,
+      "type": "directory",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2022-07-30T22:22:53.191588Z",
+      "format": null,
+      "last_modified": "2022-07-30T22:21:55.110814Z",
       "mimetype": "image/png",
       "name": "emirates_pitch.png",
       "path": "data/emirates_pitch.png",
@@ -26,9 +38,9 @@
     },
     {
       "content": null,
-      "created": "2022-07-30T21:45:07.006234Z",
+      "created": "2022-07-30T22:22:53.191588Z",
       "format": null,
-      "last_modified": "2022-07-30T21:44:01.010099Z",
+      "last_modified": "2022-07-30T22:21:55.114814Z",
       "mimetype": "text/csv",
       "name": "touches.csv",
       "path": "data/touches.csv",
@@ -37,9 +49,9 @@
       "writable": true
     }
   ],
-  "created": "2022-07-30T21:45:07.006234Z",
+  "created": "2022-07-30T22:22:53.191588Z",
   "format": "json",
-  "last_modified": "2022-07-30T21:45:07.006234Z",
+  "last_modified": "2022-07-30T22:22:53.191588Z",
   "mimetype": null,
   "name": "data",
   "path": "data",
