@@ -1,0 +1,25 @@
+{
+  "content": [
+    {
+      "content": null,
+      "created": "2022-07-30T22:24:04.073159Z",
+      "format": null,
+      "last_modified": "2022-07-30T22:23:08.917645Z",
+      "mimetype": null,
+      "name": "to_delete.gitkeep",
+      "path": "data/man_u/to_delete.gitkeep",
+      "size": 1,
+      "type": "file",
+      "writable": true
+    }
+  ],
+  "created": "2022-07-30T22:24:04.073159Z",
+  "format": "json",
+  "last_modified": "2022-07-30T22:24:04.073159Z",
+  "mimetype": null,
+  "name": "man_u",
+  "path": "data/man_u",
+  "size": null,
+  "type": "directory",
+  "writable": true
+}

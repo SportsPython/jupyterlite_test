@@ -2,9 +2,9 @@
   "content": [
     {
       "content": null,
-      "created": "2022-07-30T22:22:53.191588Z",
+      "created": "2022-07-30T22:24:04.073159Z",
       "format": null,
-      "last_modified": "2022-07-30T22:21:55.110814Z",
+      "last_modified": "2022-07-30T22:23:08.917645Z",
       "mimetype": "image/png",
       "name": "football.png",
       "path": "data/football.png",
@@ -14,9 +14,21 @@
     },
     {
       "content": null,
-      "created": "2022-07-30T22:22:53.191588Z",
+      "created": "2022-07-30T22:24:04.073159Z",
       "format": null,
-      "last_modified": "2022-07-30T22:22:53.191588Z",
+      "last_modified": "2022-07-30T22:24:04.073159Z",
+      "mimetype": null,
+      "name": "man_u",
+      "path": "data/man_u",
+      "size": null,
+      "type": "directory",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2022-07-30T22:24:04.073159Z",
+      "format": null,
+      "last_modified": "2022-07-30T22:24:04.073159Z",
       "mimetype": null,
       "name": "arsenal",
       "path": "data/arsenal",
@@ -26,9 +38,9 @@
     },
     {
       "content": null,
-      "created": "2022-07-30T22:22:53.191588Z",
+      "created": "2022-07-30T22:24:04.073159Z",
       "format": null,
-      "last_modified": "2022-07-30T22:21:55.110814Z",
+      "last_modified": "2022-07-30T22:23:08.917645Z",
       "mimetype": "image/png",
       "name": "emirates_pitch.png",
       "path": "data/emirates_pitch.png",
@@ -38,9 +50,9 @@
     },
     {
       "content": null,
-      "created": "2022-07-30T22:22:53.191588Z",
+      "created": "2022-07-30T22:24:04.073159Z",
       "format": null,
-      "last_modified": "2022-07-30T22:21:55.114814Z",
+      "last_modified": "2022-07-30T22:23:08.921645Z",
       "mimetype": "text/csv",
       "name": "touches.csv",
       "path": "data/touches.csv",
@@ -49,9 +61,9 @@
       "writable": true
     }
   ],
-  "created": "2022-07-30T22:22:53.191588Z",
+  "created": "2022-07-30T22:24:04.073159Z",
   "format": "json",
-  "last_modified": "2022-07-30T22:22:53.191588Z",
+  "last_modified": "2022-07-30T22:24:04.073159Z",
   "mimetype": null,
   "name": "data",
   "path": "data",
