@@ -2,9 +2,9 @@
   "content": [
     {
       "content": null,
-      "created": "2022-07-30T10:31:44.811370Z",
+      "created": "2022-07-30T14:19:10.946718Z",
       "format": null,
-      "last_modified": "2022-07-30T10:31:44.811370Z",
+      "last_modified": "2022-07-30T14:19:10.946718Z",
       "mimetype": null,
       "name": "data",
       "path": "data",
@@ -14,9 +14,9 @@
     },
     {
       "content": null,
-      "created": "2022-07-30T10:31:44.815370Z",
+      "created": "2022-07-30T14:19:10.946718Z",
       "format": null,
-      "last_modified": "2022-07-30T10:30:45.251383Z",
+      "last_modified": "2022-07-30T14:18:04.497665Z",
       "mimetype": null,
       "name": "example_workflow_ronaldo.ipynb",
       "path": "example_workflow_ronaldo.ipynb",
@@ -26,21 +26,9 @@
     },
     {
       "content": null,
-      "created": "2022-07-30T10:31:44.775370Z",
+      "created": "2022-07-30T14:19:10.922718Z",
       "format": null,
-      "last_modified": "2022-07-30T10:30:45.179382Z",
-      "mimetype": "image/png",
-      "name": "SP_football.png",
-      "path": "SP_football.png",
-      "size": 158114,
-      "type": "file",
-      "writable": true
-    },
-    {
-      "content": null,
-      "created": "2022-07-30T10:31:44.775370Z",
-      "format": null,
-      "last_modified": "2022-07-30T10:31:42.779374Z",
+      "last_modified": "2022-07-30T14:19:08.710695Z",
       "mimetype": "text/markdown",
       "name": "README.md",
       "path": "README.md",
@@ -49,9 +37,9 @@
       "writable": true
     }
   ],
-  "created": "2022-07-30T10:31:44.815370Z",
+  "created": "2022-07-30T14:19:10.946718Z",
   "format": "json",
-  "last_modified": "2022-07-30T10:31:44.815370Z",
+  "last_modified": "2022-07-30T14:19:10.946718Z",
   "mimetype": null,
   "name": "",
   "path": "",
