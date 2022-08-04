@@ -4,7 +4,7 @@
 
 ## ✨ Try this test Sports Python OER playground in your browser (JupyterLite deployed as a static site to GitHub Pages) ✨
 
-➡️ **https://sportspython.github.io/jupyterlite_test**
+➡️ **https://sportspython.github.io/jupyterlite_test0**
 
 ## Requirements
 
