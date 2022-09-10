@@ -14,13 +14,6 @@
         "name": "@jupyter-widgets/jupyterlab-manager"
       },
       {
-        "liteExtension": false,
-        "load": "static/remoteEntry.cdf08c015a8192358158.js",
-        "mimeExtension": "./mimeExtension",
-        "name": "@jupyterlab/fasta-extension",
-        "style": "./style"
-      },
-      {
         "extension": "./extension",
         "liteExtension": true,
         "load": "static/remoteEntry.4ba93726087006d2f61b.js",
