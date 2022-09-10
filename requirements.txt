@@ -2,10 +2,10 @@
 
 ipyevents>=2.0.1
 ipyleaflet
-ipympl>=0.8.2
+
 ipywidgets>=7.7,<8
 jupyterlab~=3.4.3
-jupyterlab-drawio
+
 
 
 jupyterlab-fasta>=3,<4
