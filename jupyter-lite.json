@@ -68,21 +68,8 @@
       {
         "extension": "./extension",
         "liteExtension": false,
-        "load": "static/remoteEntry.6b5d328600b8f618f724.js",
-        "name": "jupyter-matplotlib"
-      },
-      {
-        "extension": "./extension",
-        "liteExtension": false,
         "load": "static/remoteEntry.a7ffe26201ed2eee8505.js",
         "name": "jupyter-wren-syntax",
-        "style": "./style"
-      },
-      {
-        "extension": "./extension",
-        "liteExtension": false,
-        "load": "static/remoteEntry.8f896d6ad92823566c46.js",
-        "name": "jupyterlab-drawio",
         "style": "./style"
       },
       {
