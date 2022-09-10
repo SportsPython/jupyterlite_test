@@ -2,8 +2,9 @@
   "jupyter-config-data": {
     "appName": "JupyterLite",
     "appUrl": "./lab",
-    "appVersion": "0.1.0-beta.10",
+    "appVersion": "0.1.0-beta.12",
     "baseUrl": "./",
+    "defaultKernelName": "python",
     "faviconUrl": "./lab/favicon.ico",
     "federated_extensions": [
       {
@@ -43,13 +44,6 @@
       {
         "extension": "./extension",
         "liteExtension": true,
-        "load": "static/remoteEntry.960d5d0f875a651e597f.js",
-        "name": "@jupyterlite/xeus-sqlite-kernel",
-        "style": "./style"
-      },
-      {
-        "extension": "./extension",
-        "liteExtension": true,
         "load": "static/remoteEntry.6e7c2ba8038680301a15.js",
         "name": "@jupyterlite/xeus-wren-kernel",
         "style": "./style"
@@ -69,13 +63,13 @@
       {
         "extension": "./extension",
         "liteExtension": false,
-        "load": "static/remoteEntry.af71ba374fc8128e6506.js",
+        "load": "static/remoteEntry.99c828c2ee313756f7dc.js",
         "name": "bqplot"
       },
       {
         "extension": "./extension",
         "liteExtension": false,
-        "load": "static/remoteEntry.84a5fbcaf1830473e5a0.js",
+        "load": "static/remoteEntry.9693baf6fc7fc4c880d2.js",
         "name": "ipycanvas"
       },
       {
@@ -87,13 +81,13 @@
       {
         "extension": "./extension",
         "liteExtension": false,
-        "load": "static/remoteEntry.87c5f425be4cc49a1717.js",
+        "load": "static/remoteEntry.826666d2e0fe36d6609e.js",
         "name": "jupyter-leaflet"
       },
       {
         "extension": "./extension",
         "liteExtension": false,
-        "load": "static/remoteEntry.509ecd914d0df11eb8e1.js",
+        "load": "static/remoteEntry.6b5d328600b8f618f724.js",
         "name": "jupyter-matplotlib"
       },
       {
@@ -113,7 +107,7 @@
       {
         "extension": "./extension",
         "liteExtension": false,
-        "load": "static/remoteEntry.66500334d7b36213676e.js",
+        "load": "static/remoteEntry.249e02ea9427f8cca2ad.js",
         "mimeExtension": "./mimeExtension",
         "name": "jupyterlab-plotly"
       },
