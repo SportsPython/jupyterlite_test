@@ -18,3 +18,5 @@ jupyterlite==0.1.0b12
 
 
 
+
+seaborn
