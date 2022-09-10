@@ -21,13 +21,6 @@
         "style": "./style"
       },
       {
-        "liteExtension": false,
-        "load": "static/remoteEntry.b75c764d727b50009261.js",
-        "mimeExtension": "./mimeExtension",
-        "name": "@jupyterlab/geojson-extension",
-        "style": "./style"
-      },
-      {
         "extension": "./extension",
         "liteExtension": true,
         "load": "static/remoteEntry.4ba93726087006d2f61b.js",
@@ -59,12 +52,6 @@
         "liteExtension": false,
         "load": "static/remoteEntry.145e469029155b53b350.js",
         "name": "@timkpaine/jupyterlab_miami_nights"
-      },
-      {
-        "extension": "./extension",
-        "liteExtension": false,
-        "load": "static/remoteEntry.9693baf6fc7fc4c880d2.js",
-        "name": "ipycanvas"
       },
       {
         "extension": "./extension",
