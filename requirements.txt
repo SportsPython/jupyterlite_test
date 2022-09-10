@@ -1,5 +1,5 @@
 
-ipycanvas>=0.9.1
+
 ipyevents>=2.0.1
 ipyleaflet
 ipympl>=0.8.2
@@ -9,7 +9,7 @@ jupyterlab-drawio
 jupyterlab-language-pack-fr-FR
 jupyterlab-language-pack-zh-CN
 jupyterlab-fasta>=3,<4
-jupyterlab-geojson>=3,<4
+
 
 jupyterlab_miami_nights
 jupyterlite==0.1.0b12
