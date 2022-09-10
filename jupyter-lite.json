@@ -44,13 +44,6 @@
       {
         "extension": "./extension",
         "liteExtension": true,
-        "load": "static/remoteEntry.960d5d0f875a651e597f.js",
-        "name": "@jupyterlite/xeus-sqlite-kernel",
-        "style": "./style"
-      },
-      {
-        "extension": "./extension",
-        "liteExtension": true,
         "load": "static/remoteEntry.6e7c2ba8038680301a15.js",
         "name": "@jupyterlite/xeus-wren-kernel",
         "style": "./style"
@@ -66,12 +59,6 @@
         "liteExtension": false,
         "load": "static/remoteEntry.145e469029155b53b350.js",
         "name": "@timkpaine/jupyterlab_miami_nights"
-      },
-      {
-        "extension": "./extension",
-        "liteExtension": false,
-        "load": "static/remoteEntry.99c828c2ee313756f7dc.js",
-        "name": "bqplot"
       },
       {
         "extension": "./extension",
@@ -109,20 +96,6 @@
         "liteExtension": false,
         "load": "static/remoteEntry.8f896d6ad92823566c46.js",
         "name": "jupyterlab-drawio",
-        "style": "./style"
-      },
-      {
-        "extension": "./extension",
-        "liteExtension": false,
-        "load": "static/remoteEntry.249e02ea9427f8cca2ad.js",
-        "mimeExtension": "./mimeExtension",
-        "name": "jupyterlab-plotly"
-      },
-      {
-        "extension": "./extension",
-        "liteExtension": false,
-        "load": "static/remoteEntry.5a1869d4304cb9223cfc.js",
-        "name": "jupyterlab-tour",
         "style": "./style"
       },
       {
