@@ -11,11 +11,10 @@ jupyterlab~=3.4.3
 
 
 
-jupyterlab_miami_nights
+
 jupyterlite==0.1.0b12
 
 
 
 
 
-theme-darcula
