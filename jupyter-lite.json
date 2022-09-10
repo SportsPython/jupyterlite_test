@@ -15,32 +15,6 @@
       },
       {
         "extension": "./extension",
-        "liteExtension": true,
-        "load": "static/remoteEntry.f69e84c5aaec83c179ca.js",
-        "name": "@jupyterlite/xeus-lua-kernel",
-        "style": "./style"
-      },
-      {
-        "extension": "./extension",
-        "liteExtension": true,
-        "load": "static/remoteEntry.6e7c2ba8038680301a15.js",
-        "name": "@jupyterlite/xeus-wren-kernel",
-        "style": "./style"
-      },
-      {
-        "extension": "./extension",
-        "liteExtension": false,
-        "load": "static/remoteEntry.8a4c97071917cf84832f.js",
-        "name": "@telamonian/theme-darcula"
-      },
-      {
-        "extension": "./extension",
-        "liteExtension": false,
-        "load": "static/remoteEntry.145e469029155b53b350.js",
-        "name": "@timkpaine/jupyterlab_miami_nights"
-      },
-      {
-        "extension": "./extension",
         "liteExtension": false,
         "load": "static/remoteEntry.176149dcbfb677ea36fb.js",
         "name": "ipyevents"
@@ -50,13 +24,6 @@
         "liteExtension": false,
         "load": "static/remoteEntry.826666d2e0fe36d6609e.js",
         "name": "jupyter-leaflet"
-      },
-      {
-        "extension": "./extension",
-        "liteExtension": false,
-        "load": "static/remoteEntry.a7ffe26201ed2eee8505.js",
-        "name": "jupyter-wren-syntax",
-        "style": "./style"
       },
       {
         "extension": "./extension",
