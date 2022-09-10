@@ -8,7 +8,7 @@ jupyterlab~=3.4.3
 
 
 
-jupyterlab-fasta>=3,<4
+
 
 
 jupyterlab_miami_nights
