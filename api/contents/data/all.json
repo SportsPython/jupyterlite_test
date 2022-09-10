@@ -2,9 +2,9 @@
   "content": [
     {
       "content": null,
-      "created": "2022-09-10T21:16:27.544675Z",
+      "created": "2022-09-10T21:34:11.313066Z",
       "format": null,
-      "last_modified": "2022-09-10T21:16:27.544675Z",
+      "last_modified": "2022-09-10T21:34:11.313066Z",
       "mimetype": null,
       "name": "man_u",
       "path": "data/man_u",
@@ -14,9 +14,9 @@
     },
     {
       "content": null,
-      "created": "2022-09-10T21:16:27.536674Z",
+      "created": "2022-09-10T21:34:11.305066Z",
       "format": null,
-      "last_modified": "2022-09-10T21:16:02.556300Z",
+      "last_modified": "2022-09-10T21:33:35.036064Z",
       "mimetype": "image/png",
       "name": "football.png",
       "path": "data/football.png",
@@ -26,9 +26,9 @@
     },
     {
       "content": null,
-      "created": "2022-09-10T21:16:27.544675Z",
+      "created": "2022-09-10T21:34:11.313066Z",
       "format": null,
-      "last_modified": "2022-09-10T21:16:02.560300Z",
+      "last_modified": "2022-09-10T21:33:35.040064Z",
       "mimetype": "text/csv",
       "name": "touches.csv",
       "path": "data/touches.csv",
@@ -38,9 +38,9 @@
     },
     {
       "content": null,
-      "created": "2022-09-10T21:16:27.536674Z",
+      "created": "2022-09-10T21:34:11.305066Z",
       "format": null,
-      "last_modified": "2022-09-10T21:16:02.552300Z",
+      "last_modified": "2022-09-10T21:33:35.036064Z",
       "mimetype": "image/png",
       "name": "emirates_pitch.png",
       "path": "data/emirates_pitch.png",
@@ -50,9 +50,9 @@
     },
     {
       "content": null,
-      "created": "2022-09-10T21:16:27.536674Z",
+      "created": "2022-09-10T21:34:11.305066Z",
       "format": null,
-      "last_modified": "2022-09-10T21:16:27.536674Z",
+      "last_modified": "2022-09-10T21:34:11.305066Z",
       "mimetype": null,
       "name": "arsenal",
       "path": "data/arsenal",
@@ -61,9 +61,9 @@
       "writable": true
     }
   ],
-  "created": "2022-09-10T21:16:27.544675Z",
+  "created": "2022-09-10T21:34:11.313066Z",
   "format": "json",
-  "last_modified": "2022-09-10T21:16:27.544675Z",
+  "last_modified": "2022-09-10T21:34:11.313066Z",
   "mimetype": null,
   "name": "data",
   "path": "data",

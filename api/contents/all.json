@@ -2,9 +2,9 @@
   "content": [
     {
       "content": null,
-      "created": "2022-09-10T21:16:27.544675Z",
+      "created": "2022-09-10T21:34:11.317066Z",
       "format": null,
-      "last_modified": "2022-09-10T21:16:02.560300Z",
+      "last_modified": "2022-09-10T21:33:35.040064Z",
       "mimetype": null,
       "name": "example_workflow_ronaldo.ipynb",
       "path": "example_workflow_ronaldo.ipynb",
@@ -14,9 +14,9 @@
     },
     {
       "content": null,
-      "created": "2022-09-10T21:16:27.544675Z",
+      "created": "2022-09-10T21:34:11.313066Z",
       "format": null,
-      "last_modified": "2022-09-10T21:16:27.544675Z",
+      "last_modified": "2022-09-10T21:34:11.313066Z",
       "mimetype": null,
       "name": "data",
       "path": "data",
@@ -26,9 +26,9 @@
     },
     {
       "content": null,
-      "created": "2022-09-10T21:16:27.528674Z",
+      "created": "2022-09-10T21:34:11.297066Z",
       "format": null,
-      "last_modified": "2022-09-10T21:16:25.456643Z",
+      "last_modified": "2022-09-10T21:34:09.417018Z",
       "mimetype": "text/markdown",
       "name": "README.md",
       "path": "README.md",
@@ -37,9 +37,9 @@
       "writable": true
     }
   ],
-  "created": "2022-09-10T21:16:27.544675Z",
+  "created": "2022-09-10T21:34:11.317066Z",
   "format": "json",
-  "last_modified": "2022-09-10T21:16:27.544675Z",
+  "last_modified": "2022-09-10T21:34:11.317066Z",
   "mimetype": null,
   "name": "",
   "path": "",
